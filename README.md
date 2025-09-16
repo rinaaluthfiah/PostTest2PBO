@@ -113,8 +113,7 @@ Pengguna ingin memastikan data benar terhapus atau tidak. Dan pada tampilan diat
 ## 5. Cari Data Konsultasi 
 <img width="530" height="347" alt="image" src="https://github.com/user-attachments/assets/2a1f4ffa-b251-4812-b9c4-5276a7a6e347" />
 
-Disini terdapat  fitur cari data pasien. Jadi, pengguna bisa menemukan data yang dicari lebih cepat, dan hanya data yang cocok saja yang  akan ditampilkan oleh sistem.
-
+Disini juga terdapat fitur cari data pasien. Pada tampilan diatas pengguna ingin mencari data pasien yang bernama Danie,maka hanya data dengan nama Danie yang akan ditampilkan. Proses pencarian data menjadi lebih cepat dan mudah.
 
 ## 5. Keluar
 <img width="639" height="225" alt="image" src="https://github.com/user-attachments/assets/b1d2856c-aa4f-4024-a825-708d09f414e6" />
