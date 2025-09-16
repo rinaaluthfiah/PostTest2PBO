@@ -116,7 +116,8 @@ Pengguna ingin memastikan data benar terhapus atau tidak. Dan pada tampilan diat
 Disini juga terdapat fitur cari data pasien. Pada tampilan diatas pengguna ingin mencari data pasien yang bernama Danie,maka hanya data dengan nama Danie yang akan ditampilkan. Proses pencarian data menjadi lebih cepat dan mudah.
 
 ## 5. Keluar
-<img width="639" height="225" alt="image" src="https://github.com/user-attachments/assets/b1d2856c-aa4f-4024-a825-708d09f414e6" />
+<img width="720" height="335" alt="image" src="https://github.com/user-attachments/assets/969865a8-f0df-4730-940d-60204073b397" />
+
 
 
 Jika user memilih menu program 5 yaitu keluar, maka seluruh kegiatan program akan berhenti dan program selesai digunakan.
