@@ -120,7 +120,7 @@ Disini juga terdapat fitur cari data pasien. Pada tampilan diatas pengguna ingin
 
 
 
-Jika user memilih menu program 5 yaitu keluar, maka seluruh kegiatan program akan berhenti dan program selesai digunakan.
+Jika user memilih menu program 6 yaitu keluar, maka seluruh kegiatan program akan berhenti dan program selesai digunakan.
 
 
 
